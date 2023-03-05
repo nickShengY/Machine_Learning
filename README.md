@@ -10,6 +10,7 @@ In this Directory, I will put the codes that I try to implement the major basic 
     * Ridge Regression  
     * Elastic-Net Regression  
     * KNN  
+    * PCA
     * Gaussian Bayes  
     * Regression Tree  
     * Xgboost  
